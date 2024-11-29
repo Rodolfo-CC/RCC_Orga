@@ -1,2 +1,2 @@
-# RCC_Orga
+# ORGANIZACION DE COMPUTADORAS. RCC
 Codigos de organizacion
